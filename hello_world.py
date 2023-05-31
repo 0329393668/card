@@ -2,3 +2,4 @@
 c = complex(2,5)
 print(c.real)
 print(c.imag)
+print(c.imag)
